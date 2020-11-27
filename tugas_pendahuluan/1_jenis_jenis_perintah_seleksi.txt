@@ -1,0 +1,8 @@
+Fungsi IF
+Fungsi IF berguna untuk memilih satu dari dua atau lebih alternatif jawaban yang tersedia. Jika IF tersebut terdiri dari dua atau lebih pernyataan, maka pernyataan tersebut harus berada diantara begin dan end.
+
+Fungsi IF...ELSE
+Sama dengan fungsi IF tetapi terdapat tambahan fungsi ELSE yang akan di proses apabila tidak ada fungsi IF yang sesuai dengan kondisi / kriteria.
+
+Fungsi SWITCH
+Fungsi SWITCH merupakan pernyataan yang dirancang untuk menangani pengambilan keputusan yang melibatkan sejumlah pilihan alternative yang diantaranya untuk menggantikan pernyataan IF bertingkat.
